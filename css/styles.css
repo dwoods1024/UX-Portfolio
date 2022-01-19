@@ -1,0 +1,215 @@
+/* add your css styles here! */
+.nav-item{
+  padding: 5px 20px;
+  font-size: 25px;
+}
+
+.navbar{
+  background-color: black;
+  border-color: black;
+  margin-top: auto;
+}
+
+a.navbar-brand{
+  text-align: center;
+  justify-content: center;
+  font-family: "Volkhov", serif;
+}
+
+.navbar-nav{
+    text-align: center;
+    font-family: "Volkhov", serif;
+}
+
+#navbarNav{
+    justify-content: center;
+}
+
+.container {
+  text-align: center left;
+  padding: 200px;
+}
+
+p{
+  font-family: "Volkhov", serif;
+  font-size: 20px;
+  text-align: left center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  justify-content: center;
+  display: block;
+  box-sizing: border-box;
+}
+
+h1{
+  font-family: "Volkhov", serif;
+  font-weight: bold;
+  font-size: 70px;
+  text-align: center;
+}
+
+h2{
+  font-family: "Volkhov", serif;
+  font-weight: bold;
+  text-align: center left;
+  margin-top: 0px;
+  justify-content: center;
+}
+
+h3 {
+  font-family: "Volkhov", serif;
+  font-weight: bold;
+  text-align: center left;
+  margin-top: 0px;
+  justify-content: center;
+}
+
+h4 {
+  font-family: "Volkhov", serif;
+  font-weight: bold;
+  text-align: center left;
+  margin-top: 0px;
+  justify-content: center;
+}
+
+.box-image{
+  border-radius: 50%;
+  width: 250px;
+  height: auto;
+}
+
+.box {
+  top: 50%;
+  left: 0%;
+  transform: translate(5%, 5%);
+  width: 900px;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: white;
+  border-radius: 4px;
+  display: flex;
+  margin: auto;
+}
+
+.box .imgBx {
+  width: 250px;
+  flex: 0 0 250px;
+}
+
+.box .imgBx img {
+  max-width: 250px;
+}
+
+.box .content {
+  padding-left: 100px;
+}
+
+.box .content h1 {
+  margin: 0;
+  padding-left: 0px;
+}
+
+.box .content p {
+  margin: 0;
+  padding: 10px 0 0;
+  text-align: justify;
+}
+
+.carousel-caption{
+  margin-bottom: 300px;
+  margin-top: 300px;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+  display: block;
+  font-size: 4vw;
+  position: absolute;
+}
+
+/*
+.carousel-caption h2 p {
+  vertical-align: middle;
+}
+*/
+
+/*
+.carousel-text {
+  margin-bottom: 100px;
+  margin-top: 100px;
+  text-align: center;
+  display: block;
+  font-size: 2vw;
+}
+
+
+.card {
+  text-align: center;
+  font-family: "Volkhov";
+  display: block;
+  background-color: #e1e1e1;
+  padding: 50px;
+}
+
+.card-image {
+  width: 250px;
+  height: auto;
+  border-radius: 50%;
+  margin-top: 50px;
+  display: block;
+  margin-left: 400px;
+  background-size: cover;
+}
+
+.card-container {
+  width: 100%;
+  height: auto;
+  
+}
+
+.card-title {
+  text-align: center;
+  margin-left: 200px;
+  margin-bottom: 50px;
+  margin-top: -200px;
+  font-size: 5vw;
+}
+
+.card-text {
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+*/
+
+img {
+  filter: brightness(100%);
+}
+
+.d-block{
+  filter: brightness(60%);
+}
+
+.title {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: large;
+}
+
+.jumbotron {
+  background-color: #C4C4C4;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  width: 5%;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  height: 200px;
+  width: 100px;
+}
+
+
